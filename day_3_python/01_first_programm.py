@@ -1,5 +1,0 @@
-print("Hello World")
-print("I am learning python")
-print(5+3)
-print(5*3)
-print(3+4-1+4*3)
