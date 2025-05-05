@@ -58,3 +58,6 @@ print(type(fruit_basket))
 #8. Don't ever repeat the variable name(variable will be updated)
 #9. Don't use mathematical operators in variable name
 #10. Update variable to different version e.g samosa to samosa_1 to samosa_2
+#11. Don't use qoutation marks in variable name.
+
+# Collection of string objects is known as 'Tuple'
