@@ -22,3 +22,6 @@ print(hammad_age==age_at_school)
 age_at_school= 5
 hammad_age= int(input("what is your age? "))    #type conversion + input function
 print(hammad_age==age_at_school)
+
+
+
